@@ -1,0 +1,26 @@
+# Mixapark Kayseri Robots.txt
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /web/
+
+# Sitemap
+Sitemap: https://www.mixapark.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 0
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
+Crawl-delay: 0
