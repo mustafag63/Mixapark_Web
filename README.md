@@ -1,35 +1,45 @@
-# 🎮 Mixapark Kayseri Web Sitesi
+# 🎮 Squad Game Kayseri | Mixapark Web Sitesi
 
-Kayseri Tuna Life Center'da bulunan Mixapark çocuk oyun alanının profesyonel ve SEO optimize edilmiş resmi web sitesi.
+Kayseri Tuna Life Center'da bulunan Squad Game ve Mixapark çocuk eğlence merkezinin profesyonel ve SEO optimize edilmiş resmi web sitesi. Kayseri'de yapılacak en iyi aktivite ve eğlence merkezi!
 
 ## 📋 Özellikler
 
 - ✨ Modern ve responsive tasarım
-- 🎨 Mixapark marka renklerine uygun tasarım (Mor #5B2C91 ve Sarı #FDB827)
+- 🎨 Mixapark marka renklerine uygun tasarım (Mor #6B35A8 ve Sarı #FFC107)
 - 📱 Mobil, tablet ve desktop uyumlu
-- 🎬 Video background hero section
+- 🎬 Canlı renklerle video background hero section
 - 🖼️ Lightbox galeri
 - 🎯 Squad Game özel bölümü (18 oda detayları)
 - 💬 WhatsApp entegrasyonu
 - 📧 İletişim formu
 - ⚡ Smooth scroll animasyonlar
-- 🚀 Hızlı ve optimize edilmiş
+- 🚀 Hızlı ve SEO optimize edilmiş
+- 🔍 **SEO Anahtar Kelimeler**: squad game kayseri, squad kayseri, kayseri eğlence, kayseri aktivite, kayseri yapılacak şeyler
 
-## 🎨 Aktiviteler
+## 🎨 Kayseri Aktiviteleri - Yapılacak Şeyler
 
-1. **Trambolin Park** - Geniş zıplama alanları
-2. **Top Havuzu & Kaydıraklar** - Renkli ve eğlenceli
-3. **Soft Play Alanı** - Küçük çocuklar için güvenli
-4. **Kum Havuzu** - Oyuncak araçlarla hayal gücü geliştirme
-5. **Oyun Makineleri** - Çeşitli arcade oyunları
-6. **Squad Game** ⭐ - 18 odadan oluşan macera deneyimi
+1. **Squad Game** ⭐ - Kayseri'nin tek Squad oyunu! 18 odadan oluşan macera deneyimi
+2. **Trambolin Park** - Kayseri'de geniş zıplama alanları
+3. **Top Havuzu & Kaydıraklar** - Renkli ve eğlenceli
+4. **Soft Play Alanı** - Küçük çocuklar için güvenli
+5. **Kum Havuzu** - Oyuncak araçlarla hayal gücü geliştirme
+6. **Oyun Makineleri** - Çeşitli arcade oyunları
 
-## 🎯 Squad Game
+### Kayseri Eğlence - Hafta Sonu Aktiviteleri
+Mixapark, Kayseri'de hafta sonu yapılacak en iyi aktivite! Squad Game macerası, trambolin park eğlencesi ve daha fazlası için Tuna Life Center'dayız.
+
+## 🎯 Squad Game Kayseri - Türkiye'nin En İyi Squad Oyunu
+
+Kayseri'de Squad Game deneyimi yaşayabileceğiniz tek adres! Escape room ve macera parkının birleşimi.
 
 - **18 Farklı Oda**: Her biri benzersiz görevlerle
-- **2-5 Kişilik Gruplar**: Takım çalışması ve işbirliği
+- **2-3 Kişilik Gruplar**: Takım çalışması ve işbirliği
 - **30 Dakika**: Heyecan dolu yarış zamanı
 - **Bulmacalar ve Zorluklar**: Problem çözme becerileri
+- **Kayseri'nin Tek Squad Merkezi**: Türkiye'de az bulunan bu deneyimi Kayseri'de yaşayın!
+
+### Kayseri Squad Game Nedir?
+Squad Game, 2-3 kişilik takımlar halinde 18 farklı odadaki görevleri tamamlama yarışıdır. Kayseri'de yapılacak en heyecanlı aktivite!
 
 ## 📞 İletişim Bilgileri
 
@@ -98,11 +108,16 @@ mixa_web/
 
 ## 🎨 Renk Paleti
 
-- **Ana Mor**: #5B2C91 (Mixapark logosundan)
-- **Altın Sarısı**: #FDB827 (Mixapark logosundan)
-- **Açık Mor**: #7C3AED
+- **Ana Mor**: #6B35A8 (Mixapark logosundan - güncellenmiş canlı ton)
+- **Altın Sarısı**: #FFC107 (Mixapark logosundan - güncellenmiş parlak ton)
+- **Açık Mor**: #8B4FE8
 - **Koyu Gri**: #1F2937
 - **Metin Rengi**: #374151
+
+### Video Efektleri
+- Brightness: 1.2 (20% daha parlak)
+- Contrast: 1.15 (15% daha net)
+- Saturation: 1.3 (30% daha canlı)
 
 ## ✨ Özelleştirme
 
@@ -149,4 +164,47 @@ Sorularınız için:
 
 ---
 
-**Eğlence'nin Tek Adresi - Mixapark** 🎉
+## 🔍 SEO Anahtar Kelimeler
+
+Bu site **60+ anahtar kelime** için optimize edilmiştir:
+
+### 🎯 Ana Anahtar Kelimeler (Yüksek Öncelik)
+- **Squad Game**: squad game, squad game kayseri, squad kayseri, squad oyunu, squad game nedir
+- **Mixapark**: mixapark, mixapark kayseri, mixa park, kayseri mixapark
+- **Çocuk Eğlence**: çocuk eğlence, çocuk eğlence merkezi, çocuk eğlence merkezi kayseri
+- **Kayseri Eğlence**: kayseri eğlence, kayseri eğlence merkezi, kayseri eğlence yerleri
+- **Kayseri Aktivite**: kayseri aktivite, kayseri yapılacak şeyler, kayseri yapılacak aktiviteler
+
+### 🎮 İkincil Anahtar Kelimeler
+- Squad Game: kayseri squad game, squad game türkiye
+- Çocuk: kayseri çocuk aktiviteleri, kayseri çocuk oyun parkı, kayseri çocuk parkı, kayseri çocuklarla yapılacak şeyler
+- Hafta Sonu: kayseri hafta sonu aktiviteleri, hafta sonu kayseri, kayseri hafta sonu
+- Aile: kayseri aile aktiviteleri, kayseri aile eğlencesi, çocuklu aileler kayseri
+- Trambolin: trambolin park kayseri, trambolin kayseri
+- Kapalı Alan: kayseri kapalı oyun alanı, kayseri indoor, kayseri indoor aktivite
+- Doğum Günü: doğum günü organizasyonu kayseri, çocuk doğum günü kayseri, doğum günü kayseri
+- Macera: kayseri macera parkı, kayseri macera
+- Escape Room: escape room kayseri, kayseri escape room
+- Oyun: kayseri oyun parkı, kayseri takım oyunları, takım oyunu kayseri
+- Soft Play: soft play kayseri, çocuk oyun alanı kayseri
+- Diğer: tuna life center, tuna life center kayseri, kayseri gezilecek yerler, kayseri gençlik aktiviteleri
+
+### 🚀 Uzun Kuyruk Anahtar Kelimeler (Long Tail)
+- "Kayseri'de yapılacak en iyi aktivite"
+- "Kayseri'de yapılacak en iyi şey"
+- "Kayseri çocuklarla yapılacak şeyler"
+- "Squad game nedir ve nasıl oynanır"
+- "Kayseri'de hafta sonu ne yapılır"
+- "Kayseri'de doğum günü nerede yapılır"
+
+### 📊 Toplam SEO Kapsamı
+- **60+ Anahtar Kelime**
+- **10+ Uzun Kuyruk Keyword**
+- **Tüm meta taglar optimize**
+- **Schema.org structured data**
+- **Doğal keyword density (%2-3)**
+
+---
+
+**Kayseri Eğlence ve Squad Game'in Tek Adresi - Mixapark** 🎉
+**Kayseri'de Yapılacak En İyi Aktivite!** 🎮

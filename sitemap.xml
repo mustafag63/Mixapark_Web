@@ -10,8 +10,8 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://www.mixapark.com/web/logo3.png</image:loc>
-      <image:title>Mixapark Kayseri Logo</image:title>
-      <image:caption>Kayseri çocuk oyun alanı Mixapark</image:caption>
+      <image:title>Squad Game Kayseri | Mixapark Logo</image:title>
+      <image:caption>Kayseri Squad Game ve çocuk eğlence merkezi Mixapark - Kayseri aktivite</image:caption>
     </image:image>
   </url>
   
@@ -31,11 +31,13 @@
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://www.mixapark.com/web/IMG_2531.jpeg</image:loc>
-      <image:title>Trambolin Park Kayseri</image:title>
+      <image:title>Trambolin Park Kayseri - Mixapark Aktivite</image:title>
+      <image:caption>Kayseri'de yapılacak aktiviteler - Trambolin park eğlencesi</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://www.mixapark.com/web/IMG_2533.jpeg</image:loc>
-      <image:title>Soft Play Kayseri</image:title>
+      <image:title>Soft Play Kayseri - Çocuk Oyun Alanı</image:title>
+      <image:caption>Kayseri eğlence merkezi - Soft play alanı</image:caption>
     </image:image>
   </url>
   
@@ -47,8 +49,8 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://www.mixapark.com/web/logo1.PNG</image:loc>
-      <image:title>Squad Game Kayseri</image:title>
-      <image:caption>18 odalı macera deneyimi</image:caption>
+      <image:title>Squad Game Kayseri - Kayseri Squad Oyunu</image:title>
+      <image:caption>Kayseri'de squad game! 18 odalı macera deneyimi - Kayseri eğlence ve aktivite merkezi</image:caption>
     </image:image>
   </url>
   
