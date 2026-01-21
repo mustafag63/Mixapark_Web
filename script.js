@@ -100,9 +100,23 @@ contactForm.addEventListener('submit', (e) => {
     
     // Get form values
     const formData = new FormData(contactForm);
+    const name = formData.get('name');
+    const email = formData.get('email');
+    const phone = formData.get('phone');
+    const message = formData.get('message');
     
-    // Show success message (you can replace this with actual form submission)
-    alert('Mesajınız başarıyla gönderildi! En kısa sürede size dönüş yapacağız.');
+    // Prepare WhatsApp message
+    const whatsappMessage = `Merhaba! Web sitesinden mesaj geldi:%0A%0A` +
+        `İsim: ${encodeURIComponent(name)}%0A` +
+        `E-posta: ${encodeURIComponent(email)}%0A` +
+        `Telefon: ${encodeURIComponent(phone)}%0A` +
+        `Mesaj: ${encodeURIComponent(message)}`;
+    
+    // Open WhatsApp with the message
+    window.open(`https://wa.me/905385582763?text=${whatsappMessage}`, '_blank');
+    
+    // Show success message
+    alert('Mesajınız WhatsApp üzerinden iletiliyor. En kısa sürede size dönüş yapacağız.');
     
     // Reset form
     contactForm.reset();
@@ -264,9 +278,9 @@ if (heroVideo) {
 
 // Preload critical images
 const criticalImages = [
+    'web/logo3.png',
     'web/IMG_2530.jpeg',
-    'web/IMG_2531.jpeg',
-    'web/IMG_2536.jpeg'
+    'web/IMG_2531.jpeg'
 ];
 
 criticalImages.forEach(src => {
@@ -290,6 +304,42 @@ document.querySelectorAll('.btn').forEach(btn => {
         setTimeout(() => {
             ripple.remove();
         }, 600);
+    });
+});
+
+// FAQ Accordion
+document.querySelectorAll('.faq-question').forEach(button => {
+    button.addEventListener('click', () => {
+        const faqItem = button.parentElement;
+        const answer = faqItem.querySelector('.faq-answer');
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        
+        // Close all other FAQ items
+        document.querySelectorAll('.faq-question').forEach(otherButton => {
+            if (otherButton !== button) {
+                otherButton.setAttribute('aria-expanded', 'false');
+                otherButton.parentElement.querySelector('.faq-answer').classList.remove('active');
+            }
+        });
+        
+        // Toggle current FAQ item
+        button.setAttribute('aria-expanded', !isExpanded);
+        answer.classList.toggle('active');
+    });
+});
+
+// Smooth scroll for FAQ links in navigation (if added)
+document.querySelectorAll('a[href="#faq"]').forEach(link => {
+    link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const faqSection = document.getElementById('faq');
+        if (faqSection) {
+            const offsetTop = faqSection.offsetTop - 80;
+            window.scrollTo({
+                top: offsetTop,
+                behavior: 'smooth'
+            });
+        }
     });
 });
 
